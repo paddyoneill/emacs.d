@@ -1,2 +1,5 @@
 /custom.el
 /elpa
+*~
+/url
+/auto-save-list
